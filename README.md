@@ -1,4 +1,4 @@
-# Personal Website: helenbr.github.io 🌸
+# Personal Website: elenibriola.github.io 🌸
 
 Welcome to my personal website repository! This site showcases my background, projects, and interests, all designed with a pink theme to reflect my personality.
 
@@ -12,4 +12,4 @@ Welcome to my personal website repository! This site showcases my background, pr
 - **GitHub Pages**: Hosting the website.
 
 ## Visit
-Check it out here: [helenbr.github.io](https://helenbr.github.io)
+Check it out here: [elenibriola.github.io](https://elenibriola.github.io)
